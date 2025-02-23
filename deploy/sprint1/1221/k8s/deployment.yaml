@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app-1-2-2-1
-          image: 1pro/app
+          image: kobolt0/app
           imagePullPolicy: Always
           ports:
             - name: http
